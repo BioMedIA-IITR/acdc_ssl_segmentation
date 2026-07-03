@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+runs/
+checkpoints/*.pth
+outputs/
+*.nii
+*.nii.gz
+.DS_Store
